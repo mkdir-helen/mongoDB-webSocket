@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-websocket",
+  "version": "1.0.0",
+  "description": "Simple chat app using sockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.12",
+    "socket.io": "^2.2.0"
+  }
+}
